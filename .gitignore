@@ -22,3 +22,4 @@ Thumbs.db
 # Local config overrides
 jira-mcp-bridge.local.json
 
+.env
